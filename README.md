@@ -12,6 +12,7 @@ Repositórios relacionados à minha graduação em Engenharia da Computação no
 
 ### Ciência de Dados
 - **[Projeto 1](https://github.com/ArthurCisotto/P1_CDados)** - Classificador Naive-Bayes com tweets.
+- **[Projeto 2](https://github.com/ArthurCisotto/P2_CDados)** - Prevendo targets baseando-se em um grupo de features.
 
 ### Co-Design de Aplicativos
 - **[Protótipo de aplicativo](https://github.com/andrebrito16/Codes2021.2-G3)** - Primeiro projeto usando HTML e CSS.
