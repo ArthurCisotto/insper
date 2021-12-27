@@ -16,3 +16,4 @@ Repositórios relacionados à minha graduação em Engenharia da Computação no
 
 ### Co-Design de Aplicativos
 - **[Protótipo de aplicativo](https://github.com/andrebrito16/Codes2021.2-G3)** - Primeiro projeto usando HTML e CSS.
+- **[Versão final do protótipo de aplicativo](https://github.com/andrebrito16/projeto-final-codes)** - Projeto de aplicativo desenvolvido como solução para as dores de uma persona. Versão interativa disponível no GitHub Pages.
