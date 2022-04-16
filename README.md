@@ -30,7 +30,7 @@ Repositórios relacionados à minha graduação em Engenharia da Computação no
 - **[Aula 8 - Refatoração e Arquiteturas Desejáveis](https://github.com/ArthurCisotto/desagil-aula8-arthur-cisotto)**
   
 #### APS (Atividade Prática Supervisionada)
-Atividades feitas em conjunto com [André Brito](https://github.com/andrebrito16)**
+Atividades feitas em conjunto com [André Brito](https://github.com/andrebrito16)
 - **[APS 1](https://github.com/ArthurCisotto/desagil-aps1)**
 - **[APS 2](https://github.com/ArthurCisotto/desagil-aps2)**
 - **[APS 3](https://github.com/ArthurCisotto/desagil-aps3)**
