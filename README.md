@@ -22,6 +22,7 @@ Repositórios relacionados à minha graduação em Engenharia da Computação no
 
 ### Desenvolvimento Colaborativo Ágil
 #### Aulas
+ Minhas resoluções dos exercícios propostos nas aulas da disciplina de Desenvolvimento Colaborativo Ágil
 - **[Aula 3 - Estruturas de Dados Clássicas em Java](https://github.com/ArthurCisotto/desagil-aula3-arthur-cisotto)**
 - **[Aula 4 - Introdução a Orientação a Objetos em Java](https://github.com/ArthurCisotto/desagil-aula4-arthur-cisotto)**
 - **[Aula 5 - Modelagem, Encapsulamento e TDD](https://github.com/ArthurCisotto/desagil-aula5-arthur-cisotto)**
@@ -37,4 +38,5 @@ Atividades feitas em conjunto com [André Brito](https://github.com/andrebrito16
 - **[APS 4](https://github.com/ArthurCisotto/desagil-aps4)**
   
 #### Provas
+Minhas resoluções das provas da disciplina de Desenvolvimento Colaborativo Ágil
 - **[Prova Intermediária](https://github.com/ArthurCisotto/desagil-pi)**
